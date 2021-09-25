@@ -2,7 +2,9 @@
 
 I´m a **Junior Frontend Developer** (with some knowledge of backend, and currently learning Python)!
 
-I am **hard-working** and **resilient** person. **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
+I am **hard-working** and **resilient** person.
+
+**I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
 I´ve currently studyig in [Adalab](https://adalab.es/) and will be looking for new job opportunities soon.
 
