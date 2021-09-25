@@ -2,9 +2,9 @@
 
 I´m a **Junior Frontend Developer** (with some knowledge of backend, and currently learning Python)!
 
-I am **hard-working** and **resilient** person, **I enjoy new challenges and learning new things**
+I am **hard-working** and **resilient** person. **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
-I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I am looking for my next challenge in the developer world.
+I´ve currently studyig in [Adalab](https://adalab.es/) and will be looking for new job opportunities soon.
 
 These are what I have mastered so far:
 
@@ -12,12 +12,12 @@ These are what I have mastered so far:
 - Manage APIs with JavaScript and React
 - Version control with Git
 - Create SPAs with React
-- Grid CSS, Flex CSS.
+- Grid CSS, Flex CSS
 
 Still learning:
 
-- Bootstrap;
-- Node JS and Express.
+- Bootstrap
+- Node JS and Express
   <br>
 
 **Technologies**: <br>
