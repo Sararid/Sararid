@@ -4,8 +4,6 @@ I´m a **Junior Frontend Developer** (with some knowledge of backend, and curren
 
 I am **hard-working** and **resilient** person, **I enjoy new challenges and learning new things**
 
-<br>
-
 I´ve just finished a Bootcamp in [Adalab](https://adalab.es/) and I am looking for my next challenge in the developer world.
 
 These are what I have mastered so far:
@@ -47,6 +45,7 @@ Still learning:
 <br>
 <br>
 </div>
+
 **Tools**:
 
 <div align="left">
