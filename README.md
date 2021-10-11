@@ -11,13 +11,13 @@ I´ve currently studyig in [Adalab](https://adalab.es/) and will be looking for 
 These are what I have mastered so far:
 
 - HTML5, CSS3, Sass
-- Manage APIs with JavaScript and React
-- Version control with Git
-- Create SPAs with React
 - Grid CSS, Flex CSS
+- Javascript
+- REACT
+- API 
+- Version control with Git
 
 Still learning:
-
 - Bootstrap
 - Node JS and Express
   <br>
