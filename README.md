@@ -6,7 +6,7 @@ I am **hard-working** and **resilient** person.
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
-I´ve currently studyig in [Adalab](https://adalab.es/) and will be looking for new job opportunities soon.
+I am currently studying in [Adalab](https://adalab.es/) and will be looking for new job opportunities soon.
 
 These are what I have mastered so far:
 
@@ -21,6 +21,7 @@ Still learning:
 - Bootstrap
 - Node JS and Express
 - React Native
+- Python
   <br>
 
 **Technologies**: <br>
