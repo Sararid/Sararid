@@ -20,6 +20,7 @@ These are what I have mastered so far:
 Still learning:
 - Bootstrap
 - Node JS and Express
+- React Native
   <br>
 
 **Technologies**: <br>
