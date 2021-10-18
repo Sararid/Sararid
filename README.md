@@ -4,7 +4,11 @@ I´am **hard-working** and **resilient** **Junior front-end developer**!
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
-I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities.
+I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities. 
+
+I just completed my personal **[portfolio]**(https://sararid.github.io/portfolio/) with my current completed projects!
+
+![Alt text](https://sararid.github.io/portfolio/)
 
 These are what I have mastered so far:
 
