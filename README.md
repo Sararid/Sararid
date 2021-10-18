@@ -15,6 +15,7 @@ These are what I have mastered so far:
 - Node JS and Express
 - API 
 - Version control with Git
+- SQL (SQLite)
 
 Still learning:
 - Bootstrap
