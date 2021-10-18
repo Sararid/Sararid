@@ -1,12 +1,10 @@
 ## Hi there, my name is Sara 👩🏻‍💻
 
-I´m a **Junior Frontend Developer** (with some knowledge of backend, and currently learning Python)!
-
-I am **hard-working** and **resilient** person.
+I´am **hard-working** and **resilient** **Junior Frontend Developer**!
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
-I am currently studying in [Adalab](https://adalab.es/) and will be looking for new job opportunities soon.
+I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities.
 
 These are what I have mastered so far:
 
@@ -14,12 +12,12 @@ These are what I have mastered so far:
 - Grid CSS, Flex CSS
 - Javascript
 - REACT
+- Node JS and Express
 - API 
 - Version control with Git
 
 Still learning:
 - Bootstrap
-- Node JS and Express
 - React Native
 - Python
   <br>
