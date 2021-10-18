@@ -1,6 +1,6 @@
 ## Hi there, my name is Sara 👩🏻‍💻
 
-I´am **hard-working** and **resilient** **Junior Frontend Developer**!
+I´am **hard-working** and **resilient** **Junior front-end developer**!
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
