@@ -19,9 +19,12 @@ These are what I have mastered so far:
 - Version control with Git
 - SQL (SQLite)
 
-Still learning:
+Currently learning:
 - Bootstrap
 - React Native
+- Redux
+- Typescript
+- MongoDB
 - Python
   <br>
 
