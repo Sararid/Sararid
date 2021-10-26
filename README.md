@@ -11,11 +11,11 @@ I just completed my personal [portfolio](https://sararid.github.io/portfolio/) w
 These are what I have mastered so far:
 
 - HTML5, CSS3, Sass
-- Grid CSS, Flex CSS
+- Grid CSS, Flex
 - Javascript
-- REACT
-- Node JS and Express
-- API 
+- Reactjs
+- Nodejs and Express
+- API REST
 - Version control with Git
 - SQL (SQLite)
 
