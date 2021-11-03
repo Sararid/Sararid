@@ -4,6 +4,8 @@ I´am **hard-working** and **resilient** **front-end developer Jr** and future M
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
+😄 Pronouns: she/her
+
 ## About me 👩🏻‍💻
 
 I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities where I can use my skills in writing efficient code, troubleshooting complex problems, and assisting in the completion of projects. I am keen to gain experience in this field and I am looking forward to demonstrating my result-driven mindset, my team work ability and bringing in my soft-skills.
