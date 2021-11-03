@@ -21,6 +21,13 @@ These are what I have mastered so far:
 - Version control with Git
 - SQL (SQLite)
 
+
+✏️ Currently mastering:
+- Bootstrap, JavaScript, ReactJS
+
+✏️ What I learn next:
+- React Native, Redux, Typescript, MongoDB, Python
+
 **Languages and Tools**: <br>
 
 <div align="left">
@@ -28,16 +35,7 @@ These are what I have mastered so far:
 </div>
 <hr>
 
-✏️ Currently mastering:
-- Bootstrap
-- ReactJS
 
-✏️ What I learn next:
-- React Native
-- Redux
-- Typescript
-- MongoDB
-- Python
   <br>
 ### How to reach me 📫
 
