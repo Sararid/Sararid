@@ -1,6 +1,6 @@
 ## Hi there, my name is Sara 👋
 
-I´am **hard-working** and **resilient** **Junior front-end developer** and future Mobile Developer!
+I´am **hard-working** and **resilient** **front-end developer Jr** and future Mobile Developer!
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
@@ -19,7 +19,7 @@ I recently graduated from [Adalab](https://adalab.es/) and I am looking for new 
 ✏️ Currently mastering:
 - Bootstrap, JavaScript, ReactJS
 
-✏️ What I learn next:
+✏️ What I will learn next:
 - React Native, Redux, Typescript, MongoDB, Python
 
 
