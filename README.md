@@ -4,7 +4,6 @@ I´am **hard-working** and **resilient** **front-end developer Jr** and future M
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
-😄 Pronouns: she/her
 
 ## About me 👩🏻‍💻
 
