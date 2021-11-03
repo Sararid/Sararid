@@ -1,12 +1,14 @@
 ## Hi there, my name is Sara 👩🏻‍💻
 
-I´am **hard-working** and **resilient** **Junior front-end developer**!
+I´am **hard-working** and **resilient** **Junior front-end developer** and future Mobile Developer!
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
-I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities. 
+## About me 👩🏻‍💻
 
-I just completed my personal [portfolio](https://sararid.github.io/portfolio/) with my current projects!
+I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities where I can use my skills in writing efficient code, troubleshooting complex problems, and assisting in the completion of projects. I am keen to gain experience in this field and I am looking forward to demonstrating my result-driven mindset, my team work ability and bringing in my soft-skills developed during my previous working experiences! 
+
+🌱 I just completed my personal [portfolio](https://sararid.github.io/portfolio/) with my current projects!
 
 These are what I have mastered so far:
 
@@ -19,8 +21,11 @@ These are what I have mastered so far:
 - Version control with Git
 - SQL (SQLite)
 
-Currently learning:
+✏️ Currently mastering:
 - Bootstrap
+- ReactJS
+
+✏️ What I learn next:
 - React Native
 - Redux
 - Typescript
