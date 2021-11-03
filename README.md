@@ -37,7 +37,7 @@ These are what I have mastered so far:
 
 
   <br>
-### How to reach me 📫
+## How to reach me 📫
 
 <a href="mailto:sarayridouane@gmail.com"><img src="https://img.icons8.com/color/35/000000/gmail.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/sara-rd"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="linkedin"/></a>
