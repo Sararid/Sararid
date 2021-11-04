@@ -1,6 +1,6 @@
 ## Hi there, my name is Sara 👋
 
-I´am **hard-working** and **resilient** **front-end developer Jr** and future Mobile Developer!
+I am **hard-working** and **resilient** **front-end developer Jr** and future Mobile Developer!
 
 **I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
 
