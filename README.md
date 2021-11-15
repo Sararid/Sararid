@@ -19,11 +19,8 @@ I recently graduated from [Adalab](https://adalab.es/) and I am looking for new 
 </div>   <br>
 
 
-✏️ Currently mastering:
-- Bootstrap, JavaScript, ReactJS
-
 ✏️ What I will learn next:
-- React Native, Redux, Typescript, MongoDB, Python
+- React Native, Redux, Typescript, PHP, Python, Angular
 
 
 ## How to reach me 📫
