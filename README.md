@@ -1,8 +1,8 @@
 ## Hi there, my name is Sara 👋
 
-I am **hard-working** and **resilient** **front-end developer Jr**!
+I am a **hard-working** and **resilient** **Front-End Developer Jr**!
 
-**I enjoy new challenges and learning new things**, I also love travelling, cooking and nature.
+**I enjoy challenges and learning new things**, I also love travelling, cooking and nature.
 
 
 ## About me 👩🏻‍💻
