@@ -4,11 +4,6 @@ I am a **hard-working** and **resilient** **Front-End Developer Jr**!
 
 **I enjoy challenges and learning new things**, I also love travelling, cooking and nature.
 
-
-## About me 👩🏻‍💻
-
-I recently graduated from [Adalab](https://adalab.es/) and I am looking for new job opportunities where I can use my skills in writing efficient code, troubleshooting complex problems, and assisting in the completion of projects. I am keen to gain experience in this field and I am looking forward to demonstrating my result-driven mindset, my team work ability and bringing in my soft-skills.
-
 ⚡ I also speak fluently **Spanish**, **English**, **French** and advanced **Catalan**. 
 
 🌱 I just completed my personal [portfolio](https://sararid.github.io/portfolio/) with my current projects!
