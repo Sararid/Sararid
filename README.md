@@ -1,6 +1,6 @@
 ## Hi there, my name is Sara 👋
 
-I am a **hard-working** and **resilient** **Front-End Developer**!
+I am a **Front-End Developer**!
 
 **I enjoy challenges and learning new things**, I also love travelling, cooking and nature.
 
