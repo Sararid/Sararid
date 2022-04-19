@@ -1,4 +1,4 @@
-## Hi there, my name is Sara 👋
+## Hi World, my name is Sara 👋
 
 I am a **Front-End Developer**!
 
@@ -8,13 +8,15 @@ I am a **Front-End Developer**!
 
 **My stack is**:
 
-- Reactjs 
-- React Native, 
-- Redux, 
-- Javascript, 
-- HTML, 
+- React
+- React Native
+- Redux, Redux ToolKit
+- Javascript 
+- HTML 
 - CSS 
 - SASS
+- -Node
+- GraphQL
 
 
 ## How to reach me 📫
