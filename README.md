@@ -15,7 +15,7 @@ I am a **Front-End Developer**!
 - HTML 
 - CSS 
 - SASS
-- -Node
+- Node
 - GraphQL
 
 
