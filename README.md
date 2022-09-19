@@ -1,6 +1,6 @@
 ## Hi World, my name is Sara 👋
 
-I am a **Front-End Developer**!
+I am a junior **Front-End Developer**!
 
 **I enjoy challenges and learning new things**, I also love travelling, cooking and nature.
 
@@ -16,6 +16,7 @@ I am a **Front-End Developer**!
 - CSS 
 - SASS
 - Node
+- Express
 - GraphQL
 
 
