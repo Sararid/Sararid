@@ -19,6 +19,8 @@ I am a junior **Front-End Developer**!
 - Express
 - GraphQL
 
+IN PROGESS:
+- Typescript
 
 ## How to reach me 📫
 
