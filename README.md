@@ -1,6 +1,6 @@
 ## Hi World, my name is Sara 👋
 
-I am a junior **Front-End Developer**!
+I am a  **Front-End/Mobile Developer**!
 
 **I enjoy challenges and learning new things**, I also love travelling, cooking and nature.
 
@@ -10,11 +10,8 @@ I am a junior **Front-End Developer**!
 
 - React
 - React Native
-- Redux, Redux ToolKit
+- Redux, Redux ToolKit, Zustand
 - Javascript 
-- HTML 
-- CSS 
-- SASS
 - Node
 - Express
 - GraphQL
